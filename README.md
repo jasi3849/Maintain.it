@@ -13,7 +13,7 @@ A powerful **content management tool** that helps **freelancers, developers, and
 🚀 **Watch the video demo of Maintain.it in action!**  
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
 
-> 📌 **Replace** `YOUR_VIDEO_ID` with your actual YouTube video ID.
+
 
 ## 🛠️ Tech Stack  
 **Frontend:** React, React Router, MUI, Monaco Editor  
