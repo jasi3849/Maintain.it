@@ -11,7 +11,7 @@ A powerful **content management tool** that helps **freelancers, developers, and
 
 ## 🎥 Demo Video  
 🚀 **Watch the video demo of Maintain.it in action!**  
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7292873161782505472" height="1100" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+[![Watch the video]([https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.linkedin.com/posts/jayrajsaddiwal_webdevelopment-freelancing-saas-activity-7292873438329720832-xeLP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADRyf1sBGUaF-C4UH9Ki6I6WhAOApmkYBWU))  
 
 
 ## 🛠️ Tech Stack  
